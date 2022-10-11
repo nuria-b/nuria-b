@@ -1,4 +1,4 @@
-# Hi there 👋 :smile:
+# Welcome! I'm Nuria 👋 :smile:
 
 ### About me
 
