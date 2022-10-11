@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 👋 :smile:
 
-<!--
-**nuria-b/nuria-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+<p>I'm a junior full-stack developer with experience in graphic design, editorial layout, and customer service.</p>
+<p>I have been wanting to enter the IT sector for a few years, until in 2022 I started the 850h full-stack development bootcamp at Factoría F5.</p>
+<p>Now I am actively searching for my first opportunity as a junior developer. We speak?</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and technologies
+
+<ul>
+    <li>HTML5 | CSS3</li>
+    <li>React & JSX ( JavaScript ES6 | Typescript)</li>
+    <li>Node | npm</li>
+    <li>PHP | XAMPP & MySQL | PostgreSQL</li>
+    <li>Git & GitHub</li>
+    <li>MDBootstrap | MUI | Styled components</li>
+</ul>
+
+### Contact me
+<p>:email: nuriabairunstruz@gmail.com</p>
+<p>:briefcase: https://www.linkedin.com/in/nuriabairunstruz/</p>
+<p>:video_game: https://discord.com/users/0416</p>
