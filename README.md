@@ -2,7 +2,7 @@
 
 ### :raising_hand: About me
 
-<p>I'm a junior full-stack developer with experience in graphic design, editorial layout, and customer service.</p>
+<p>I'm a junior full-stack developer with experience in graphic design, editorial layout and customer service.</p>
 <p>I have been wanting to enter the IT sector for a few years, until in 2022 I started the 850h full-stack development bootcamp at Factoría F5.</p>
 <p>Now I am actively searching for my first opportunity as a junior developer. We speak?</p>
 
