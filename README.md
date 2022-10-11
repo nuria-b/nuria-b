@@ -1,5 +1,7 @@
 # Welcome! I'm Nuria 👋 :smile:
 
+![portada-gitHub-v2](https://user-images.githubusercontent.com/103484253/195170764-dd483d5f-4f53-45fa-ac3a-85c9a95febda.jpg)
+
 ### :raising_hand: About me
 
 <p>I'm a junior full-stack developer with experience in graphic design, editorial layout and customer service.</p>
