@@ -1,6 +1,6 @@
 # Welcome! I'm Nuria 👋 :smile:
 
-![portada-gitHub-v2](https://user-images.githubusercontent.com/103484253/195170764-dd483d5f-4f53-45fa-ac3a-85c9a95febda.jpg)
+![portada-gitHub-v2](https://user-images.githubusercontent.com/103484253/195338099-5846a58a-fb92-4b44-90c4-5ab9da8ef34c.jpg)
 
 ### :raising_hand: About me
 
