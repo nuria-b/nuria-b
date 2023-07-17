@@ -4,9 +4,9 @@
 
 ### :raising_hand: About me
 
-<p>I'm a junior full-stack developer with experience in graphic design, editorial layout and customer service.</p>
-<p>I have been wanting to enter the IT sector for a few years, until in 2022 I started the 850h full-stack development bootcamp at Factoría F5.</p>
-<p>Now I am working as a junior React JS developer. We speak?</p>
+<p>I'm a junior full-stack developer with experience in graphic design, editorial layout (my specialty) and customer service.</p>
+<p>I had been wanting to enter the IT sector for a few years, until in 2022 I started the 850h full-stack development bootcamp at Factoría F5 and, shortly after finishing it, I started working as a React junior developer.</p>
+<p>Now I'm still looking for my next job opportunity. Let's talk!</p>
 
 ### :wrench: Languages and technologies
 
