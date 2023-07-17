@@ -11,15 +11,15 @@
 ### :wrench: Languages and technologies
 
 <ul>
-    <li>HTML5 | CSS3</li>
-    <li>React & JSX ( JavaScript ES6 | Typescript)</li>
+    <li>HTML5 | CSS3 | SASS</li>
+    <li>React & JSX (JavaScript ES6 | Typescript)</li>
     <li>Node | npm</li>
     <li>PHP | XAMPP & MySQL | PostgreSQL</li>
     <li>Git & GitHub</li>
-    <li>MDBootstrap | MUI | Styled components</li>
+    <li>Unit Testing | Component Testing | e2e testing</li>
+    <li>Ant Design | MDBootstrap | MUI | Styled components</li>
 </ul>
 
 ### :speech_balloon: Contact me
 <p>nuriabairunstruz@gmail.com</p>
 <p>https://www.linkedin.com/in/nuriabairunstruz/</p>
-<p>https://discord.com/users/0416</p>
