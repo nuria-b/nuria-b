@@ -1,25 +1,32 @@
-# Welcome! I'm Nuria 👋 :smile:
+# Welcome! I'm Nuria 👋 😃
 
-![portada-gitHub-v2](https://user-images.githubusercontent.com/103484253/195338099-5846a58a-fb92-4b44-90c4-5ab9da8ef34c.jpg)
+![portada-gitHub-v2](https://github.com/nuria-b/nuria-b/assets/103484253/586ff33b-46ee-4691-a734-9b6850de013f)
 
-### :raising_hand: About me
+### 🙋 About me
 
-<p>I'm a junior full-stack developer with experience in graphic design, editorial layout (my specialty) and customer service.</p>
-<p>I had been wanting to enter the IT sector for a few years, until in 2022 I started the 850h full-stack development bootcamp at Factoría F5 and, shortly after finishing it, I started working as a React junior developer.</p>
-<p>Now I'm still looking for my next job opportunity. Let's talk!</p>
+<p>I'm a junior UX / UI designer with experience in front-end development, graphic design and editorial design.</p>
+<p>In 2022 I started working as a junior React developer, an experience that gives me a global vision of the technical requirements necessary to develop digital products. In order to focus my professional career towards design, in 2023 I trained as a UX/UI designer.</p>
+<p>Now I'm still looking for my next job opportunity as a junior UX/UI designer.</p>
 
-### :wrench: Languages and technologies
+### 🔧 Technologies
 
 <ul>
+    <li>Adobe Illustrator | Photoshop</li>
+    <li>Jira | Trello</li>
+    <li>Figma | Figjam</li>
     <li>HTML5 | CSS3 | SASS</li>
-    <li>React & JSX (JavaScript ES6 | Typescript)</li>
-    <li>Node | npm</li>
-    <li>PHP | XAMPP & MySQL | PostgreSQL</li>
-    <li>Git & GitHub</li>
-    <li>Unit Testing | Component Testing | e2e testing</li>
-    <li>Ant Design | MDBootstrap | MUI | Styled components</li>
 </ul>
 
-### :speech_balloon: Contact me
+
+### 🔎 Methodologies
+
+<ul>
+    <li>Agile | Design Thinking | MPV</li>
+    <li>User-Centered Design (UCD)</li>
+    <li>Data Driven Design (DDD)</li>
+    <li>UX / UI research</li>
+</ul>
+
+### 💬 Let's talk!
 <p>nuriabairunstruz@gmail.com</p>
 <p>https://www.linkedin.com/in/nuriabairunstruz/</p>
